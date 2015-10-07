@@ -6,7 +6,7 @@
 try {
     $host     = 'localhost';
     $user     = 'root';
-    $password = '';
+    $password = 'rootroot';
     $dbname   = 'ouvrages';
 
     $oConnexion = new PDO(
